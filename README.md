@@ -13,4 +13,5 @@ using API call,
 - use the conditional operator,
 - set the app icon in both platforms,
 - build a basic app with Flutter.
+![final app](https://github.com/mercihohmann/Images/blob/master/weather_app2.png)
 
